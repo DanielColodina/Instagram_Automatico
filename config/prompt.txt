@@ -1,4 +1,705 @@
-COLE AQUI O SEU PROMPT PRONTO PARA GERAR A IMAGEM.
+Crie um pôster publicitário profissional para Instagram no formato vertical 4:5, resolução 1080 × 1350 pixels, para a empresa brasileira CTK Sistemas.
 
-Recomendacao: descreva explicitamente o estilo, o assunto, a composicao e o texto que deve ou nao aparecer na imagem.
-Formato desejado: vertical 4:5 para feed do Instagram.
+IMPORTANTE: utilize como fonte visual obrigatória as imagens reais do sistema CTK fornecidas nesta conversa.
+
+A INTERFACE REAL DO CTK É A REFERÊNCIA PRINCIPAL.
+
+Não invente outro dashboard.
+Não redesenhe o sistema.
+Não transforme o CTK em um software genérico.
+Não crie uma interface futurista.
+Não invente gráficos, menus, números ou funcionalidades apenas para deixar a imagem bonita.
+
+Quando o sistema aparecer em notebook, monitor ou celular, ele precisa ser visualmente fiel às telas reais fornecidas.
+
+==================================================
+IDENTIDADE DA CTK
+==================================================
+
+Utilize SOMENTE a logo oficial da CTK Sistemas fornecida pelo usuário.
+
+A logo oficial possui:
+
+- símbolo geométrico verde;
+- texto “CTK”;
+- texto “SISTEMAS”;
+- composição horizontal original.
+
+NUNCA:
+
+- redesenhar a logo;
+- criar outra versão;
+- trocar o símbolo;
+- modificar a fonte;
+- adicionar ícones;
+- escrever “CTK Gestão”;
+- criar uma versão parecida;
+- reinterpretar a marca.
+
+Pode apenas alterar proporcionalmente o tamanho para encaixar no layout.
+
+A logo deve aparecer limpa, nítida e com espaço ao redor.
+
+==================================================
+COMO O SISTEMA REALMENTE É
+==================================================
+
+A aparência interna do CTK deve seguir as screenshots reais enviadas.
+
+Características visuais obrigatórias:
+
+- sidebar vertical verde-escuro do lado esquerdo;
+- conteúdo principal branco ou verde extremamente claro;
+- bastante espaço em branco;
+- cards com bordas arredondadas;
+- bordas e sombras discretas;
+- textos em verde muito escuro;
+- botões principais em verde;
+- pequenos detalhes em verde claro e laranja;
+- visual corporativo, leve e organizado;
+- nada futurista.
+
+A sidebar real possui módulos como:
+
+Meu dia
+Visão geral
+Radar de riscos
+Obras
+Clientes
+Materiais
+Estoque
+Compras
+Fornecedores
+Financeiro
+Comunicação
+Notificações
+Relatórios
+Importar dados
+Usuários
+Auditoria
+Minha conta
+
+Não é necessário tornar todos legíveis no pôster.
+
+A interface deve funcionar principalmente como prova visual de que existe uma plataforma real.
+
+==================================================
+TELA “MEU DIA”
+==================================================
+
+Quando utilizar a tela Meu Dia, respeitar sua estrutura real.
+
+Ela possui:
+
+- título “Meu dia”;
+- subtítulo relacionado ao que exige atenção;
+- Assistente CTK PRO na área superior;
+- campo de texto comprido;
+- botões Enviar e Falar;
+- opção relacionada a planilha;
+- atalhos como Obras, Pendências, Boletos, Materiais, Entregas e Movimentações;
+- cards operacionais como Críticos, Atividades, Estoque e Documentos;
+- sidebar verde-escuro à esquerda.
+
+Não transformar o Assistente CTK em chatbot futurista.
+
+Não adicionar robô.
+
+Não adicionar hologramas.
+
+O assistente deve parecer integrado naturalmente ao sistema.
+
+==================================================
+TELA DE LOGIN
+==================================================
+
+Caso a tela de login seja utilizada em alguma campanha, seguir a versão atual fornecida.
+
+A tela possui:
+
+- fundo muito claro;
+- bastante espaço em branco;
+- card central;
+- logo na parte superior;
+- título “Acesse sua operação”;
+- campos Empresa, E-mail e Senha;
+- botão verde Entrar;
+- Esqueci minha senha;
+- Conhecer a plataforma;
+- elementos informativos muito discretos nas laterais.
+
+Não utilizar o layout antigo.
+
+Não transformar a tela de login em painel publicitário.
+
+Ela deve continuar extremamente clean.
+
+==================================================
+POSICIONAMENTO
+==================================================
+
+A CTK é uma plataforma de gestão empresarial.
+
+Possui forte atuação na construção, porém a comunicação não deve fazer a empresa parecer limitada exclusivamente a construtoras.
+
+A mensagem deve transmitir:
+
+organização;
+controle;
+produtividade;
+segurança;
+centralização;
+menos retrabalho;
+mais clareza;
+processos mais eficientes;
+informação acessível.
+
+O público precisa entender que a CTK ajuda uma empresa a transformar informações espalhadas em uma operação mais organizada.
+
+==================================================
+CONCEITO DA CAMPANHA
+==================================================
+
+Quero que o pôster mostre uma MUDANÇA REAL NO DIA A DIA.
+
+Não quero simplesmente:
+
+“olhe como nosso dashboard é bonito”.
+
+Quero que a mensagem seja:
+
+ANTES:
+informações espalhadas;
+planilhas;
+documentos;
+mensagens;
+processos manuais;
+tempo procurando dados.
+
+COM CTK:
+informação centralizada;
+prioridades visíveis;
+processos organizados;
+mais controle;
+menos retrabalho;
+mais clareza para decidir.
+
+Não é obrigatório escrever “antes e depois”.
+
+Esse conceito deve estar presente visualmente.
+
+==================================================
+ESTILO VISUAL
+==================================================
+
+Criar uma campanha com aparência de agência brasileira premium.
+
+Referência estética:
+
+fotografia editorial corporativa;
+SaaS premium;
+campanha B2B;
+design minimalista;
+fotografia natural;
+layout de revista empresarial;
+tecnologia sem exagero.
+
+A imagem deve parecer fotografada e diagramada profissionalmente.
+
+NÃO deve parecer render 3D genérico de IA.
+
+==================================================
+LIQUID GLASS
+==================================================
+
+Utilizar Liquid Glass de forma MUITO SUTIL.
+
+Pode aparecer em:
+
+- 2 ou 3 pequenos cards;
+- informações flutuantes;
+- indicadores;
+- pequenas chamadas;
+- elemento de transição visual.
+
+Usar:
+
+transparência suave;
+blur discreto;
+contorno branco;
+reflexo leve;
+sombra quase imperceptível.
+
+Não colocar dezenas de caixas de vidro.
+
+Não colocar cards flutuando por toda a imagem.
+
+O Liquid Glass deve dar sofisticação, não poluição.
+
+==================================================
+REGRA DE OURO: MENOS ELEMENTOS
+==================================================
+
+Cada pôster deve comunicar UMA ideia.
+
+Máximo recomendado:
+
+1 headline;
+1 texto curto;
+2 ou 3 benefícios;
+1 representação do sistema;
+1 CTA;
+1 mensagem institucional.
+
+Evitar seis, oito ou dez cards na mesma imagem.
+
+A arte precisa respirar.
+
+==================================================
+LAYOUT DE REFERÊNCIA
+==================================================
+
+Manter o mesmo nível profissional do pôster de referência enviado pelo usuário.
+
+Estrutura sugerida:
+
+LOGO CTK
+
+linha decorativa pequena
+
+HEADLINE GRANDE
+
+texto curto de apoio
+
+2 ou 3 benefícios
+
+mockup realista do CTK em notebook ou monitor
+
+CTA
+
+mensagem institucional
+
+Usar bastante espaço negativo.
+
+Não ocupar cada centímetro da imagem.
+
+==================================================
+FOTOGRAFIA
+==================================================
+
+Criar ambiente realista.
+
+Exemplos:
+
+escritório de engenharia;
+mesa de gestor;
+escritório empresarial;
+ambiente administrativo moderno;
+escritório próximo a uma obra;
+mesa com projeto técnico.
+
+Elementos permitidos:
+
+notebook;
+monitor;
+caderno;
+caneta;
+projeto técnico;
+capacete;
+plantas;
+mesa;
+celular;
+documentos discretos.
+
+Tudo precisa parecer fisicamente plausível.
+
+Iluminação natural entrando pela janela.
+
+Preferência por luz de manhã ou fim da tarde.
+
+Profundidade de campo fotográfica suave.
+
+==================================================
+PESSOAS
+==================================================
+
+Pessoas são opcionais.
+
+Se houver pessoas:
+
+- aparência brasileira e natural;
+- roupa profissional;
+- contexto coerente;
+- nada posado demais;
+- nada olhando para hologramas;
+- mãos naturais;
+- postura realista.
+
+Não fazer a pessoa dominar a composição.
+
+O produto e a mensagem continuam sendo protagonistas.
+
+==================================================
+COMPOSIÇÃO DO SISTEMA
+==================================================
+
+Sempre que possível, utilizar a própria screenshot real fornecida dentro de um notebook ou monitor.
+
+Não redesenhar toda a interface por IA.
+
+O melhor resultado é:
+
+fotografia realista do ambiente
+
++
+
+mockup de notebook
+
++
+
+SCREENSHOT REAL DO CTK aplicada corretamente dentro da tela.
+
+Manter:
+
+proporção;
+cores;
+sidebar;
+estrutura;
+hierarquia;
+cards.
+
+Não inventar informações dentro do sistema.
+
+==================================================
+MOBILE
+==================================================
+
+Caso apareça celular:
+
+NÃO inventar um aplicativo mobile diferente.
+
+O CTK é uma plataforma web responsiva/PWA.
+
+A interface mobile deve ser uma adaptação responsiva da plataforma real.
+
+Não criar barra inferior de aplicativo se ela não existir no sistema.
+
+Não transformar em aplicativo nativo.
+
+==================================================
+TEMAS
+==================================================
+
+Cada nova publicação deve variar o tema.
+
+Não repetir sempre:
+
+“Mais organização”
+“Mais controle”
+“Sua operação em um só lugar”
+
+Alternar entre assuntos reais do CTK.
+
+Exemplos:
+
+TEMA 01
+
+“Comece o dia sabendo o que precisa da sua atenção.”
+
+Mostrar Meu Dia.
+
+Benefícios:
+
+Prioridades organizadas
+Pendências visíveis
+Mais rapidez para agir
+
+--------------------------------------------------
+
+TEMA 02
+
+“Não procure informação. Encontre.”
+
+Mostrar sistema + busca/contexto.
+
+Benefícios:
+
+Dados centralizados
+Histórico acessível
+Mais contexto
+
+--------------------------------------------------
+
+TEMA 03
+
+“Planilhas antigas não precisam continuar controlando sua operação.”
+
+Mostrar Importar Dados.
+
+Benefícios:
+
+Importação
+Organização
+Validação
+
+--------------------------------------------------
+
+TEMA 04
+
+“Veja os sinais antes que virem problemas.”
+
+Mostrar Radar de Riscos.
+
+Benefícios:
+
+Pontos de atenção
+Prioridades
+Ação preventiva
+
+--------------------------------------------------
+
+TEMA 05
+
+“Financeiro conectado à operação.”
+
+Mostrar Financeiro.
+
+Benefícios:
+
+Custos
+Vencimentos
+Controle por obra
+
+--------------------------------------------------
+
+TEMA 06
+
+“Do material à compra, sem perder o controle.”
+
+Mostrar materiais, estoque e compras.
+
+Benefícios:
+
+Estoque
+Compras
+Fornecedores
+
+--------------------------------------------------
+
+TEMA 07
+
+“Documentos importantes não deveriam depender de memória.”
+
+Mostrar documentos/evidências.
+
+Benefícios:
+
+Organização
+Histórico
+Validade
+
+--------------------------------------------------
+
+TEMA 08
+
+“O que aconteceu hoje na obra?”
+
+Mostrar RDO.
+
+Benefícios:
+
+Registro
+Histórico
+Informações da execução
+
+--------------------------------------------------
+
+TEMA 09
+
+“Pergunte. O CTK encontra.”
+
+Mostrar Assistente CTK PRO.
+
+Benefícios:
+
+Texto
+Voz
+Contexto da operação
+
+Sem representar IA como autônoma.
+
+--------------------------------------------------
+
+TEMA 10
+
+“Menos trabalho manual para sua equipe.”
+
+Mostrar importação, automação ou fluxo de operação.
+
+Benefícios:
+
+Menos retrabalho
+Informação organizada
+Mais produtividade
+
+==================================================
+TEXTOS
+==================================================
+
+Priorizar headlines humanas e diretas.
+
+Exemplos:
+
+“Comece o dia sabendo onde agir.”
+
+“Informação certa. Na hora certa.”
+
+“Não procure. Encontre.”
+
+“Menos planilhas. Mais gestão.”
+
+“Veja o que merece atenção.”
+
+“Financeiro conectado à operação.”
+
+“Uma obra gera dados. O CTK organiza.”
+
+“Controle sem complicar sua rotina.”
+
+“Tudo o que importa, mais fácil de encontrar.”
+
+Evitar frases genéricas como:
+
+“revolucione sua gestão”;
+“o futuro da construção”;
+“transformação digital”;
+“inovação sem limites”;
+“tecnologia revolucionária”.
+
+==================================================
+CTA
+==================================================
+
+Utilizar:
+
+“Conheça a CTK Sistemas”
+
+ou, dependendo da campanha:
+
+“Conheça o CTK”
+
+Não criar botão gigante.
+
+CTA discreto, elegante e integrado ao layout.
+
+==================================================
+MENSAGEM INSTITUCIONAL
+==================================================
+
+Utilizar discretamente:
+
+“Forte na construção. Preparada para diferentes operações.”
+
+Essa mensagem deve ajudar a comunicar que a CTK possui grande aderência à construção, mas não está limitada a esse mercado.
+
+==================================================
+IA
+==================================================
+
+Não fazer a campanha parecer um produto de IA.
+
+IA é um recurso da CTK, não sua identidade inteira.
+
+Quando mencionar IA:
+
+- Assistente CTK;
+- comandos por texto;
+- voz;
+- organização de informações;
+- RDO assistido;
+- importação inteligente.
+
+Nunca sugerir decisões autônomas.
+
+Alterações relevantes dependem de confirmação humana.
+
+Não sugerir que todos os recursos de IA fazem parte do plano BASIC.
+
+==================================================
+O QUE NÃO FAZER
+==================================================
+
+NÃO criar:
+
+robôs;
+cérebros digitais;
+hologramas;
+circuitos;
+fundo azul futurista;
+neon excessivo;
+gráficos flutuando sem função;
+dezenas de cards;
+dashboard inventado;
+menus inexistentes;
+app mobile falso;
+métricas comerciais inventadas;
+avaliações fictícias;
+depoimentos fictícios;
+integrações inexistentes;
+recursos inexistentes.
+
+NÃO preencher a arte apenas porque existe espaço vazio.
+
+ESPAÇO EM BRANCO É PARTE DO DESIGN.
+
+==================================================
+RESULTADO ESPERADO
+==================================================
+
+Quero um pôster que pareça ter sido criado por uma agência de publicidade para uma empresa SaaS brasileira consolidada.
+
+A sensação deve ser:
+
+limpo;
+maduro;
+confiável;
+tecnológico;
+humano;
+profissional.
+
+Quando alguém olhar a imagem por 2 segundos precisa entender o benefício.
+
+Quando olhar por mais alguns segundos precisa perceber que existe um sistema real por trás da propaganda.
+
+E quando observar o notebook precisa reconhecer a verdadeira interface da CTK.
+
+A prioridade é:
+
+BENEFÍCIO → MARCA → PRODUTO.
+
+Não:
+
+EFEITOS → TECNOLOGIA → TEXTO.
+
+==================================================
+REGRAS FIXAS PARA TODAS AS PRÓXIMAS ARTES
+==================================================
+
+Formato 1080 × 1350.
+Instagram 4:5.
+Logo oficial CTK obrigatória.
+Screenshot real como referência.
+Interface CTK fiel.
+Visual clean.
+Liquid Glass discreto.
+Fotografia editorial realista.
+No máximo 2 ou 3 benefícios.
+Uma mensagem por imagem.
+Não repetir o mesmo tema consecutivamente.
+Não inventar funcionalidades.
+Não inventar telas.
+Não inventar logo.
+Não transformar o CTK em aplicativo mobile diferente.
+Não deixar com aparência de arte gerada por IA.
+
+Antes de gerar, analise as imagens reais do CTK fornecidas e preserve a identidade visual do produto.
