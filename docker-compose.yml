@@ -1,0 +1,15 @@
+services:
+  instagram-auto-post:
+    build: .
+    container_name: instagram-auto-post
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8090:8080"
+    environment:
+      TZ: America/Sao_Paulo
+      JAVA_TOOL_OPTIONS: -XX:MaxRAMPercentage=65
+      APP_SCHEDULER_ENABLED: "true"
+    mem_limit: 512m
+    volumes:
+      - ./config:/app/config:ro
+      - ./data:/app/data
